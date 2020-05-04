@@ -1,0 +1,32 @@
+.delete{
+    float: right;
+    background-color: cornflowerblue;
+    padding: 6px;
+    border-radius: 4px;
+    
+    
+}
+#wrapper{
+    padding: 1px;
+    max-width: 500px;
+    border: 2px lightblue;
+    border-radius: 20px;
+
+}
+#page-banner{
+    background: lightseagreen;
+    padding: 10px 0;
+    text-align: center;
+}
+#book-list{
+    background-color: bisque;
+    padding: 10px;
+}
+#add-book{
+    background-color: gray;
+    position: relative;
+
+}
+h1,h2{
+    font-weight: normal;
+}
